@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747529037945",
+    "project_id": "travala-3eca5",
+    "storage_bucket": "travala-3eca5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747529037945:android:2d062ef353c1d16d3fcca8",
+        "android_client_info": {
+          "package_name": "com.travala.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnLEpu38EnTINyba4w0jxDW4GWryAcXjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
